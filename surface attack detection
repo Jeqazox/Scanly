@@ -1,0 +1,4 @@
+HTTP Security Header	                                          Header   Role                                                               	Status
+X-Frame-Options	                                                Protects against Clickjacking attacks	                                       Not set
+X-XSS-                                                          Protection	Mitigates Cross-Site Scripting (XSS) attacks	                   Not set
+X-Content-Type-Options	                                        Prevents possible phishing or XSS attacks	                                     Not set
